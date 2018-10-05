@@ -11,7 +11,7 @@
             {{ if isset .Site.Params "readMoreLabel" }}
             <p class="small"><a href="{{ .Permalink }}">{{ .Site.Params.readMoreLabel }} »</a></p>
             {{ else }}
-            <p class="small"><a href="{{ .Permalink }}">Read more »</a></p>
+            <p class="small"><a href="{{ .Permalink }}"> {{ .Params.link_text }} »</a></p>
             {{ end }}
         </div>
     </article>
