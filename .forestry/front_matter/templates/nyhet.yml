@@ -31,3 +31,5 @@ fields:
   label: Link tekst
   config:
     required: true
+pages:
+- content/posts/lorem-ipsum.md
