@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52459227-4f6f-49b0-a4f7-2f9213897cfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/baseof.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/item.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/list.json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/_default/single.json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/729278a5f7dd3a0d73bdbb4ae9aa1de2-300x212.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/uploads/Bilde-til-sak-om-bilder-750x365.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/images/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/images/tn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/partials/foot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/partials/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/shortcodes/gist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/layouts/shortcodes/youtube.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/static/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/static/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/heather-hugo/theme.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +22,11 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
+          <entry key="gitmodules" value="1" />
           <entry key="html" value="2" />
           <entry key="json" value="1" />
           <entry key="md" value="2" />
+          <entry key="sh" value="1" />
           <entry key="toml" value="2" />
         </counts>
       </usages-collector>
@@ -54,12 +36,13 @@
           <entry key="HTML" value="2" />
           <entry key="JSON" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="100" />
+          <entry key="gitmodules" value="59" />
           <entry key="html" value="170" />
           <entry key="md" value="21" />
           <entry key="toml" value="11" />
@@ -70,18 +53,27 @@
           <entry key="CSS" value="100" />
           <entry key="HTML" value="170" />
           <entry key="Markdown" value="21" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="PLAIN_TEXT" value="70" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -151,6 +143,8 @@
         <option value="$PROJECT_DIR$/themes/heather-hugo/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/heather-hugo/static/style.css" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/.gitmodules" />
       </list>
     </option>
   </component>
@@ -179,49 +173,6 @@
             <path>
               <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
               <item name="carousel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="archetypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carousel" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carousel" type="b2602c69:ProjectViewProjectNode" />
@@ -274,6 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538738529683" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -309,15 +261,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538734567050</updated>
-      <workItem from="1538734568482" duration="2317000" />
+      <workItem from="1538734568482" duration="3956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2317000" />
+    <option name="totallyTimeSpent" value="3956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1886" height="1364" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -404,8 +357,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>

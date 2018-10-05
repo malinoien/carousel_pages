@@ -1,3 +1,8 @@
 [submodule "heather-hugo"]
 	path = heather-hugo
 	url = https://github.com/hbpasti/heather-hugo.git
+
+[submodule "public"]
+	path = public
+	url = git@github.com:malinoien/malinoien.github.io.git
+	branch = master
