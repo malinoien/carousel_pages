@@ -32,4 +32,5 @@ fields:
   config:
     required: true
 pages:
+- content/posts/dolor-sit-amet.md
 - content/posts/lorem-ipsum.md
