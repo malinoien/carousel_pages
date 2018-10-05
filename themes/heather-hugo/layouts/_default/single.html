@@ -1,0 +1,12 @@
+{{ partial "head.html" . }}
+<!-- <main class="posts"> -->
+<main>
+<article class="post">
+  <img src="{{ .Params.image }}">
+  <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+  <p> {{ .Params.ingress }} </p>
+  <p class="small gray"><time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "02 Jan, 2006" }}</time></p>
+  {{ .Content }}
+</article>
+</main>
+{{ partial "foot.html" . }}

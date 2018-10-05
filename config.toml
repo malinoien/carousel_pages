@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Carousel"
+
+theme = "heather-hugo"
+
+[outputs]
+  page = ["json", "HTML"]
+  home = ["json"]
+  section = ["json", "HTML"]

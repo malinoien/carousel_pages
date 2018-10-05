@@ -1,0 +1,3 @@
+[submodule "heather-hugo"]
+	path = heather-hugo
+	url = https://github.com/hbpasti/heather-hugo.git
