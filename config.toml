@@ -6,5 +6,5 @@ theme = "heather-hugo"
 
 [outputs]
   page = ["json", "HTML"]
-  home = ["json"]
+  home = ["json", "HTML"]
   section = ["json", "HTML"]

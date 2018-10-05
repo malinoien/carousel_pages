@@ -19,8 +19,8 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-# git push git@github.com:malinoien/malinoien.github.io.git master
-git push origin master
+git push git@github.com:malinoien/malinoien.github.io.git master
+# git push origin master
 
 # Come Back up to the Project Root
 cd ..
