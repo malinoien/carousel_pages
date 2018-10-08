@@ -6,6 +6,6 @@ link_text = "mklzdnpckx"
 title = "Ny sak"
 
 +++
-nsvdopncxzm ø<. 
+nvdopncxzm ø<. 
 
   
