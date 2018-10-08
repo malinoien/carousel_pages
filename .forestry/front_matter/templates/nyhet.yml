@@ -31,6 +31,9 @@ fields:
   label: Link tekst
   config:
     required: true
+- type: tag_list
+  name: tag
+  label: Tag
 pages:
 - content/posts/ny-sak.md
 - content/posts/dolor-sit-amet.md
