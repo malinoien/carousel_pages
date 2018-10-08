@@ -7,12 +7,7 @@
         <div class="content">
             <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
             <p>{{ .Summary }}</p>
-            <!-- Support heather-hugo users who have not yet added the "Read more" label option to their site config. -->
-            {{ if isset .Site.Params "readMoreLabel" }}
-            <p class="small"><a href="{{ .Permalink }}">{{ .Site.Params.readMoreLabel }} »</a></p>
-            {{ else }}
             <p class="small"><a href="{{ .Permalink }}"> {{ .Params.link_text }} »</a></p>
-            {{ end }}
         </div>
     </article>
     {{ end }}
