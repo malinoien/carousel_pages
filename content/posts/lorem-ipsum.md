@@ -3,6 +3,7 @@ date = "2018-10-05T18:59:16+02:00"
 image = "/uploads/729278a5f7dd3a0d73bdbb4ae9aa1de2-300x212.jpg"
 ingress = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 link_text = " Duis aute irure dolor"
+tag = "news"
 title = "Lorem ipsum"
 
 +++
