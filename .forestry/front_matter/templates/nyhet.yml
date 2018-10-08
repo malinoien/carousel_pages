@@ -32,5 +32,6 @@ fields:
   config:
     required: true
 pages:
+- content/posts/ny-sak.md
 - content/posts/dolor-sit-amet.md
 - content/posts/lorem-ipsum.md
