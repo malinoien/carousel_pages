@@ -4,5 +4,5 @@
   "image": "{{ .Params.image }}",
   "ingress": "{{ .Params.ingress }}",
   "link_text": "{{ .Params.link_text }}",
-  "text": "{{ .Content }}"
+  "text": "{{ replace .Content "\n" "" }}"
 }
