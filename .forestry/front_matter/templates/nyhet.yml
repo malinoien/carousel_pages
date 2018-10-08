@@ -41,7 +41,6 @@ fields:
   label: tag
   name: tag
 pages:
-- content/posts/tagtest.md
 - content/posts/ny-sak.md
 - content/posts/dolor-sit-amet.md
 - content/posts/lorem-ipsum.md
