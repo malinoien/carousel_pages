@@ -31,9 +31,15 @@ fields:
   label: Link tekst
   config:
     required: true
-- type: tag_list
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - carousell
+    - news
+  label: tag
   name: tag
-  label: Tag
 pages:
 - content/posts/tagtest.md
 - content/posts/ny-sak.md
