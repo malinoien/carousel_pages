@@ -1,5 +1,5 @@
 ---
-label: Nyhet
+label: News post
 hide_body: false
 is_partial: false
 fields:
@@ -41,6 +41,7 @@ fields:
     required: true
   label: tag
   name: tag
+  default: news
 pages:
 - content/posts/karusell2.md
 - content/posts/karusell3.md
