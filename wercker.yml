@@ -3,7 +3,7 @@ build:
   steps:
   - arjen/hugo-build@2.5.0:
       theme: heather-hugo
-      flags: --buildDrafts=true
+      flags: --buildDrafts=false
       config: config.toml
 
 deploy:
