@@ -36,8 +36,9 @@ fields:
     source:
       type: simple
     options:
-    - carousell
     - news
+    - carousel
+    required: true
   label: tag
   name: tag
 pages:
