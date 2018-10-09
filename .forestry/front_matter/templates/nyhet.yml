@@ -43,6 +43,7 @@ fields:
   name: tag
   default: news
 pages:
+- content/posts/eos-atqui-cetero-oblique-an.md
 - content/posts/quo-an-aperiri-fabellas.md
 - content/posts/an-ius-quas-nonumes.md
 - content/posts/no-putent-euismod-vel.md
