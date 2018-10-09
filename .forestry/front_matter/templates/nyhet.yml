@@ -43,8 +43,9 @@ fields:
   name: tag
   default: news
 pages:
-- content/posts/rebum-omnesque-consequuntur-eam-no,-per-in-munere-fuisset.md
+- content/posts/lorem-ipsum.md
 - content/posts/an-ius-quas-nonumes.md
+- content/posts/rebum-omnesque-consequuntur-eam-no,-per-in-munere-fuisset.md
 - content/posts/eos-atqui-cetero-oblique-an.md
 - content/posts/quo-an-aperiri-fabellas.md
 - content/posts/no-putent-euismod-vel.md
