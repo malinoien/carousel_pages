@@ -5,6 +5,7 @@ build:
       version: "0.17"
       theme: heather-hugo
       flags: --buildDrafts=true
+      config: config.toml
 
 deploy:
   steps:
