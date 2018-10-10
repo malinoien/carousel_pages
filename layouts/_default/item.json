@@ -5,5 +5,6 @@
   "ingress": "{{ .Params.ingress }}",
   "link_text": "{{ .Params.link_text }}",
   "tag": "{{ .Params.tag }}",
-  "text": "{{ replace .Content "\n" "" }}"
+  "text": "{{ replace .Content "\n" "" }}",
+  "permalink": "{{ .Permalink }}"
 }
