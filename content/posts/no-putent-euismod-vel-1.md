@@ -4,7 +4,7 @@ image = "/uploads/bay-boat-city-134062.jpg"
 ingress = "Duplikat post"
 link_text = "Dup"
 tag = "news"
-title = "No putent euismod vel"
+title = "No putent"
 
 +++
 Duuuuplikat
