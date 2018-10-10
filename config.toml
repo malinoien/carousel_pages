@@ -1,6 +1,6 @@
 baseURL = "https://malinoien.github.io/"
 languageCode = "en-us"
-title = "Carousel"
+title = "News"
 
 theme = "heather-hugo"
 
