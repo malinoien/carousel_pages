@@ -42,15 +42,6 @@ fields:
   label: tag
   name: tag
   default: news
-- type: number
-  name: id
-  label: id
-  hidden: true
-  config:
-    min: '0'
-    max: '9999999'
-    step: '1'
-    required: true
 pages:
 - content/posts/idtest.md
 - content/posts/this-is-a-draft.md
