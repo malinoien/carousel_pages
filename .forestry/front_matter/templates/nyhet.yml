@@ -43,7 +43,6 @@ fields:
   name: tag
   default: news
 pages:
-- content/posts/idtest.md
 - content/posts/this-is-a-draft.md
 - content/posts/lorem-ipsum.md
 - content/posts/an-ius-quas-nonumes.md
