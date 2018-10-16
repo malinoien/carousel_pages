@@ -43,6 +43,7 @@ fields:
   name: tag
   default: news
 pages:
+- content/posts/karuselltest.md
 - content/posts/lorem-ipsum.md
 - content/posts/an-ius-quas-nonumes.md
 - content/posts/rebum-omnesque-consequuntur-eam-no,-per-in-munere-fuisset.md
