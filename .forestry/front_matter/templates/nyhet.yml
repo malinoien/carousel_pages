@@ -51,6 +51,7 @@ fields:
     required: true
     date_format: DD/MM/YYYY
 pages:
+- content/posts/test.md
 - content/posts/lorem-ipsum.md
 - content/posts/an-ius-quas-nonumes.md
 - content/posts/rebum-omnesque-consequuntur-eam-no,-per-in-munere-fuisset.md
