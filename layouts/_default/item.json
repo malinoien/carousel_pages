@@ -1,5 +1,4 @@
 {
-  "id": "{{ .UniqueId }}",
   "name": "{{ .Title }}",
   "date": "{{ .Params.date }}",
   "image": "{{ .Params.image | absURL }}",
