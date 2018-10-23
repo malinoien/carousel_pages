@@ -1,9 +1,8 @@
 +++
 date = "2018-10-09T08:38:16+02:00"
-draft = true
-image = "/uploads/bridge-hanging-outdoors-546913.jpg"
+image = "/uploads/boulders-calm-conifers-426894.jpg"
 ingress = "Ius ignota labore cu, sed id tincidunt expetendis. Pri id ludus consul audiam, legere latine eu mea. Per no eruditi phaedrum, reque nihil debitis id usu, veniam primis democritum nec cu. Id duo recusabo interesset, cu dicam hendrerit definitionem mel."
-link_text = "Eum singulis suscipiantur in"
+link_text = "Suscipiantur in"
 tag = "news"
 title = "Quas nonumes"
 
