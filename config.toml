@@ -4,9 +4,6 @@ title = "News"
 
 theme = "heather-hugo"
 
-[permalinks]
-  post = "/:slug/"
-
 [outputs]
   page = ["json", "HTML"]
   home = ["json", "HTML"]
