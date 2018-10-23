@@ -42,6 +42,14 @@ fields:
   label: tag
   name: tag
   default: news
+- type: datetime
+  name: slug
+  label: slug
+  hidden: true
+  config:
+    display_utc: true
+    required: true
+    date_format: DD/MM/YYYY
 pages:
 - content/posts/lorem-ipsum.md
 - content/posts/an-ius-quas-nonumes.md
