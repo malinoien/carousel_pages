@@ -1,4 +1,5 @@
 {
+  "slug": "{{ .UniqueID }}",
   "id": "{{ .UniqueID }}",
   "name": "{{ .Title }}",
   "date": "{{ .Params.date }}",
